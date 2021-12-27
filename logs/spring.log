@@ -1,0 +1,257 @@
+2021-12-27 16:48:28.576  INFO 14857 --- [main] com.example.club.ClubApplication         : Starting ClubApplication using Java 17.0.1 on Yevheniis-MacBook-Air.local with PID 14857 (/Users/yevheniikaliukh/IdeaProjects/club/target/classes started by yevheniikaliukh in /Users/yevheniikaliukh/IdeaProjects/club)
+2021-12-27 16:48:28.577  INFO 14857 --- [main] com.example.club.ClubApplication         : No active profile set, falling back to default profiles: default
+2021-12-27 16:48:28.923  INFO 14857 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2021-12-27 16:48:28.926  INFO 14857 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-12-27 16:48:28.926  INFO 14857 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2021-12-27 16:48:29.005  INFO 14857 --- [main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2021-12-27 16:48:29.009  INFO 14857 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-12-27 16:48:29.010  INFO 14857 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 420 ms
+2021-12-27 16:48:29.232  INFO 14857 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2021-12-27 16:48:29.248  INFO 14857 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2021-12-27 16:48:29.256  INFO 14857 --- [main] com.example.club.ClubApplication         : Started ClubApplication in 0.875 seconds (JVM running for 1.239)
+2021-12-27 16:48:29.730  INFO 14857 --- [RMI TCP Connection(3)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-12-27 16:48:29.730  INFO 14857 --- [RMI TCP Connection(3)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-12-27 16:48:29.731  INFO 14857 --- [RMI TCP Connection(3)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-12-27 17:25:52.135  INFO 15143 --- [main] com.example.club.ClubApplication         : Starting ClubApplication using Java 17.0.1 on Yevheniis-MacBook-Air.local with PID 15143 (/Users/yevheniikaliukh/IdeaProjects/club/target/classes started by yevheniikaliukh in /Users/yevheniikaliukh/IdeaProjects/club)
+2021-12-27 17:25:52.136  INFO 15143 --- [main] com.example.club.ClubApplication         : No active profile set, falling back to default profiles: default
+2021-12-27 17:25:52.793  INFO 15143 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2021-12-27 17:25:52.802  INFO 15143 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-12-27 17:25:52.803  INFO 15143 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2021-12-27 17:25:53.012  INFO 15143 --- [main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2021-12-27 17:25:53.027  INFO 15143 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-12-27 17:25:53.028  INFO 15143 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 865 ms
+2021-12-27 17:25:53.388  INFO 15143 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2021-12-27 17:25:53.419  INFO 15143 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2021-12-27 17:25:53.429  INFO 15143 --- [main] com.example.club.ClubApplication         : Started ClubApplication in 1.429 seconds (JVM running for 1.798)
+2021-12-27 17:25:53.566  INFO 15143 --- [RMI TCP Connection(3)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-12-27 17:25:53.566  INFO 15143 --- [RMI TCP Connection(3)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-12-27 17:25:53.566  INFO 15143 --- [RMI TCP Connection(3)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2021-12-27 17:26:25.006  INFO 15163 --- [main] com.example.club.ClubApplication         : Starting ClubApplication using Java 17.0.1 on Yevheniis-MacBook-Air.local with PID 15163 (/Users/yevheniikaliukh/IdeaProjects/club/target/classes started by yevheniikaliukh in /Users/yevheniikaliukh/IdeaProjects/club)
+2021-12-27 17:26:25.011  INFO 15163 --- [main] com.example.club.ClubApplication         : No active profile set, falling back to default profiles: default
+2021-12-27 17:26:25.387  INFO 15163 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2021-12-27 17:26:25.390  INFO 15163 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-12-27 17:26:25.390  INFO 15163 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2021-12-27 17:26:25.464  INFO 15163 --- [main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2021-12-27 17:26:25.469  INFO 15163 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-12-27 17:26:25.469  INFO 15163 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 407 ms
+2021-12-27 17:26:25.587  INFO 15163 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2021-12-27 17:26:25.592  INFO 15163 --- [main] com.example.club.ClubApplication         : Started ClubApplication in 0.739 seconds (JVM running for 1.017)
+2021-12-27 17:26:51.394  INFO 15163 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-12-27 17:26:51.394  INFO 15163 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-12-27 17:26:51.399  INFO 15163 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2021-12-27 17:35:16.835  INFO 15244 --- [main] com.example.club.ClubApplication         : Starting ClubApplication using Java 17.0.1 on Yevheniis-MacBook-Air.local with PID 15244 (/Users/yevheniikaliukh/IdeaProjects/club/target/classes started by yevheniikaliukh in /Users/yevheniikaliukh/IdeaProjects/club)
+2021-12-27 17:35:16.836  INFO 15244 --- [main] com.example.club.ClubApplication         : No active profile set, falling back to default profiles: default
+2021-12-27 17:35:17.248  INFO 15244 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2021-12-27 17:35:17.251  INFO 15244 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-12-27 17:35:17.251  INFO 15244 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2021-12-27 17:35:17.348  INFO 15244 --- [main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2021-12-27 17:35:17.354  INFO 15244 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-12-27 17:35:17.354  INFO 15244 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 485 ms
+2021-12-27 17:35:17.488  INFO 15244 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2021-12-27 17:35:17.493  INFO 15244 --- [main] com.example.club.ClubApplication         : Started ClubApplication in 0.917 seconds (JVM running for 1.305)
+2021-12-27 17:35:26.153  INFO 15244 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-12-27 17:35:26.154  INFO 15244 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-12-27 17:35:26.156  INFO 15244 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2021-12-27 17:40:16.050  INFO 15286 --- [main] com.example.club.ClubApplication         : Starting ClubApplication using Java 17.0.1 on Yevheniis-MacBook-Air.local with PID 15286 (/Users/yevheniikaliukh/IdeaProjects/club/target/classes started by yevheniikaliukh in /Users/yevheniikaliukh/IdeaProjects/club)
+2021-12-27 17:40:16.051  INFO 15286 --- [main] com.example.club.ClubApplication         : No active profile set, falling back to default profiles: default
+2021-12-27 17:40:16.320  INFO 15286 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2021-12-27 17:40:16.323  INFO 15286 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-12-27 17:40:16.323  INFO 15286 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2021-12-27 17:40:16.399  INFO 15286 --- [main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2021-12-27 17:40:16.403  INFO 15286 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-12-27 17:40:16.404  INFO 15286 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 339 ms
+2021-12-27 17:40:16.525  INFO 15286 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2021-12-27 17:40:16.530  INFO 15286 --- [main] com.example.club.ClubApplication         : Started ClubApplication in 0.589 seconds (JVM running for 0.952)
+2021-12-27 17:40:20.585  INFO 15289 --- [main] com.example.club.ClubApplication         : Starting ClubApplication using Java 17.0.1 on Yevheniis-MacBook-Air.local with PID 15289 (/Users/yevheniikaliukh/IdeaProjects/club/target/classes started by yevheniikaliukh in /Users/yevheniikaliukh/IdeaProjects/club)
+2021-12-27 17:40:20.585  INFO 15289 --- [main] com.example.club.ClubApplication         : No active profile set, falling back to default profiles: default
+2021-12-27 17:40:20.950  INFO 15289 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2021-12-27 17:40:20.955  INFO 15289 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-12-27 17:40:20.956  INFO 15289 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2021-12-27 17:40:21.073  INFO 15289 --- [main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2021-12-27 17:40:21.078  INFO 15289 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-12-27 17:40:21.078  INFO 15289 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 476 ms
+2021-12-27 17:40:21.239  INFO 15289 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2021-12-27 17:40:21.245  INFO 15289 --- [main] com.example.club.ClubApplication         : Started ClubApplication in 0.804 seconds (JVM running for 1.112)
+2021-12-27 17:40:35.964  INFO 15289 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-12-27 17:40:35.964  INFO 15289 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-12-27 17:40:35.967  INFO 15289 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2021-12-27 17:40:53.740  INFO 15305 --- [main] com.example.club.ClubApplication         : Starting ClubApplication using Java 17.0.1 on Yevheniis-MacBook-Air.local with PID 15305 (/Users/yevheniikaliukh/IdeaProjects/club/target/classes started by yevheniikaliukh in /Users/yevheniikaliukh/IdeaProjects/club)
+2021-12-27 17:40:53.743  INFO 15305 --- [main] com.example.club.ClubApplication         : No active profile set, falling back to default profiles: default
+2021-12-27 17:40:54.221  INFO 15305 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2021-12-27 17:40:54.226  INFO 15305 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-12-27 17:40:54.226  INFO 15305 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2021-12-27 17:40:54.341  INFO 15305 --- [main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2021-12-27 17:40:54.347  INFO 15305 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-12-27 17:40:54.347  INFO 15305 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 562 ms
+2021-12-27 17:40:54.527  INFO 15305 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2021-12-27 17:40:54.538  INFO 15305 --- [main] com.example.club.ClubApplication         : Started ClubApplication in 1.005 seconds (JVM running for 1.416)
+2021-12-27 17:41:00.283  INFO 15305 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-12-27 17:41:00.284  INFO 15305 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-12-27 17:41:00.286  INFO 15305 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2021-12-27 17:45:07.485  INFO 15327 --- [main] com.example.club.ClubApplication         : Starting ClubApplication using Java 17.0.1 on Yevheniis-MacBook-Air.local with PID 15327 (/Users/yevheniikaliukh/IdeaProjects/club/target/classes started by yevheniikaliukh in /Users/yevheniikaliukh/IdeaProjects/club)
+2021-12-27 17:45:07.486  INFO 15327 --- [main] com.example.club.ClubApplication         : No active profile set, falling back to default profiles: default
+2021-12-27 17:45:07.808  INFO 15327 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2021-12-27 17:45:07.812  INFO 15327 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-12-27 17:45:07.812  INFO 15327 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2021-12-27 17:45:07.894  INFO 15327 --- [main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2021-12-27 17:45:07.902  INFO 15327 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-12-27 17:45:07.902  INFO 15327 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 399 ms
+2021-12-27 17:45:08.015  INFO 15327 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2021-12-27 17:45:08.020  INFO 15327 --- [main] com.example.club.ClubApplication         : Started ClubApplication in 0.785 seconds (JVM running for 1.234)
+2021-12-27 17:45:26.485  INFO 15327 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-12-27 17:45:26.485  INFO 15327 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-12-27 17:45:26.491  INFO 15327 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2021-12-27 17:45:45.345  INFO 15334 --- [main] com.example.club.ClubApplication         : Starting ClubApplication using Java 17.0.1 on Yevheniis-MacBook-Air.local with PID 15334 (/Users/yevheniikaliukh/IdeaProjects/club/target/classes started by yevheniikaliukh in /Users/yevheniikaliukh/IdeaProjects/club)
+2021-12-27 17:45:45.348  INFO 15334 --- [main] com.example.club.ClubApplication         : No active profile set, falling back to default profiles: default
+2021-12-27 17:45:45.873  INFO 15334 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2021-12-27 17:45:45.877  INFO 15334 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-12-27 17:45:45.877  INFO 15334 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2021-12-27 17:45:45.991  INFO 15334 --- [main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2021-12-27 17:45:45.996  INFO 15334 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-12-27 17:45:45.997  INFO 15334 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 606 ms
+2021-12-27 17:45:46.157  INFO 15334 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2021-12-27 17:45:46.162  INFO 15334 --- [main] com.example.club.ClubApplication         : Started ClubApplication in 1.092 seconds (JVM running for 1.576)
+2021-12-27 17:45:52.024  INFO 15334 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-12-27 17:45:52.025  INFO 15334 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-12-27 17:45:52.027  INFO 15334 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2021-12-27 17:46:18.576  INFO 15340 --- [main] com.example.club.ClubApplication         : Starting ClubApplication using Java 17.0.1 on Yevheniis-MacBook-Air.local with PID 15340 (/Users/yevheniikaliukh/IdeaProjects/club/target/classes started by yevheniikaliukh in /Users/yevheniikaliukh/IdeaProjects/club)
+2021-12-27 17:46:18.578  INFO 15340 --- [main] com.example.club.ClubApplication         : No active profile set, falling back to default profiles: default
+2021-12-27 17:46:19.114  INFO 15340 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2021-12-27 17:46:19.118  INFO 15340 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-12-27 17:46:19.118  INFO 15340 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2021-12-27 17:46:19.224  INFO 15340 --- [main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2021-12-27 17:46:19.229  INFO 15340 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-12-27 17:46:19.229  INFO 15340 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 596 ms
+2021-12-27 17:46:19.354  INFO 15340 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2021-12-27 17:46:19.359  INFO 15340 --- [main] com.example.club.ClubApplication         : Started ClubApplication in 1.018 seconds (JVM running for 1.334)
+2021-12-27 17:46:31.105  INFO 15344 --- [main] com.example.club.ClubApplication         : Starting ClubApplication using Java 17.0.1 on Yevheniis-MacBook-Air.local with PID 15344 (/Users/yevheniikaliukh/IdeaProjects/club/target/classes started by yevheniikaliukh in /Users/yevheniikaliukh/IdeaProjects/club)
+2021-12-27 17:46:31.108  INFO 15344 --- [main] com.example.club.ClubApplication         : No active profile set, falling back to default profiles: default
+2021-12-27 17:46:31.794  INFO 15344 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2021-12-27 17:46:31.806  INFO 15344 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-12-27 17:46:31.807  INFO 15344 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2021-12-27 17:46:31.930  INFO 15344 --- [main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2021-12-27 17:46:31.935  INFO 15344 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-12-27 17:46:31.935  INFO 15344 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 780 ms
+2021-12-27 17:46:32.084  INFO 15344 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2021-12-27 17:46:32.092  INFO 15344 --- [main] com.example.club.ClubApplication         : Started ClubApplication in 1.234 seconds (JVM running for 1.613)
+2021-12-27 17:47:06.089  INFO 15344 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-12-27 17:47:06.090  INFO 15344 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-12-27 17:47:06.092  INFO 15344 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2021-12-27 17:58:40.277  INFO 15513 --- [main] com.example.club.ClubApplication         : Starting ClubApplication using Java 17.0.1 on Yevheniis-MacBook-Air.local with PID 15513 (/Users/yevheniikaliukh/IdeaProjects/club/target/classes started by yevheniikaliukh in /Users/yevheniikaliukh/IdeaProjects/club)
+2021-12-27 17:58:40.278  INFO 15513 --- [main] com.example.club.ClubApplication         : No active profile set, falling back to default profiles: default
+2021-12-27 17:58:40.599  INFO 15513 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2021-12-27 17:58:40.602  INFO 15513 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-12-27 17:58:40.603  INFO 15513 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2021-12-27 17:58:40.686  INFO 15513 --- [main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2021-12-27 17:58:40.690  INFO 15513 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-12-27 17:58:40.690  INFO 15513 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 396 ms
+2021-12-27 17:58:40.808  INFO 15513 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2021-12-27 17:58:40.813  INFO 15513 --- [main] com.example.club.ClubApplication         : Started ClubApplication in 0.694 seconds (JVM running for 0.948)
+2021-12-27 17:58:59.698  INFO 15523 --- [main] com.example.club.ClubApplication         : Starting ClubApplication using Java 17.0.1 on Yevheniis-MacBook-Air.local with PID 15523 (/Users/yevheniikaliukh/IdeaProjects/club/target/classes started by yevheniikaliukh in /Users/yevheniikaliukh/IdeaProjects/club)
+2021-12-27 17:58:59.699  INFO 15523 --- [main] com.example.club.ClubApplication         : No active profile set, falling back to default profiles: default
+2021-12-27 17:59:00.020  INFO 15523 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2021-12-27 17:59:00.023  INFO 15523 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-12-27 17:59:00.023  INFO 15523 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2021-12-27 17:59:00.116  INFO 15523 --- [main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2021-12-27 17:59:00.120  INFO 15523 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-12-27 17:59:00.120  INFO 15523 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 399 ms
+2021-12-27 17:59:00.246  INFO 15523 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2021-12-27 17:59:00.250  INFO 15523 --- [main] com.example.club.ClubApplication         : Started ClubApplication in 0.721 seconds (JVM running for 1.254)
+2021-12-27 17:59:14.701  INFO 15523 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-12-27 17:59:14.702  INFO 15523 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-12-27 17:59:14.704  INFO 15523 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2021-12-27 18:07:48.760  INFO 15632 --- [main] com.example.club.ClubApplication         : Starting ClubApplication using Java 17.0.1 on Yevheniis-MacBook-Air.local with PID 15632 (/Users/yevheniikaliukh/IdeaProjects/club/target/classes started by yevheniikaliukh in /Users/yevheniikaliukh/IdeaProjects/club)
+2021-12-27 18:07:48.761  INFO 15632 --- [main] com.example.club.ClubApplication         : No active profile set, falling back to default profiles: default
+2021-12-27 18:07:49.032  INFO 15632 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2021-12-27 18:07:49.035  INFO 15632 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-12-27 18:07:49.035  INFO 15632 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2021-12-27 18:07:49.110  INFO 15632 --- [main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2021-12-27 18:07:49.115  INFO 15632 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-12-27 18:07:49.115  INFO 15632 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 339 ms
+2021-12-27 18:07:49.226  INFO 15632 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2021-12-27 18:07:49.231  INFO 15632 --- [main] com.example.club.ClubApplication         : Started ClubApplication in 0.589 seconds (JVM running for 0.929)
+2021-12-27 18:08:04.222  INFO 15632 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-12-27 18:08:04.222  INFO 15632 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-12-27 18:08:04.224  INFO 15632 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2021-12-27 18:08:57.508  INFO 15670 --- [main] com.example.club.ClubApplication         : Starting ClubApplication using Java 17.0.1 on Yevheniis-MacBook-Air.local with PID 15670 (/Users/yevheniikaliukh/IdeaProjects/club/target/classes started by yevheniikaliukh in /Users/yevheniikaliukh/IdeaProjects/club)
+2021-12-27 18:08:57.509  INFO 15670 --- [main] com.example.club.ClubApplication         : No active profile set, falling back to default profiles: default
+2021-12-27 18:08:57.849  INFO 15670 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2021-12-27 18:08:57.853  INFO 15670 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-12-27 18:08:57.853  INFO 15670 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2021-12-27 18:08:57.964  INFO 15670 --- [main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2021-12-27 18:08:57.968  INFO 15670 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-12-27 18:08:57.969  INFO 15670 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 442 ms
+2021-12-27 18:08:58.117  INFO 15670 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2021-12-27 18:08:58.123  INFO 15670 --- [main] com.example.club.ClubApplication         : Started ClubApplication in 0.779 seconds (JVM running for 1.112)
+2021-12-27 18:09:03.672  INFO 15670 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-12-27 18:09:03.677  INFO 15670 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-12-27 18:09:03.679  INFO 15670 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2021-12-27 18:09:13.609 ERROR 15670 --- [http-nio-8081-exec-4] c.e.c.e.handler.BaseExceptionHandler     : handleBaseException()
+
+com.example.club.exception.BadRequestException: Email is being used already
+	at com.example.club.service.member.impl.ClubServiceImpl.save(ClubServiceImpl.java:33) ~[classes/:na]
+	at com.example.club.controller.ClubMemberController.post(ClubMemberController.java:41) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205) ~[spring-web-5.3.14.jar:5.3.14]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150) ~[spring-web-5.3.14.jar:5.3.14]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-5.3.14.jar:5.3.14]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895) ~[spring-webmvc-5.3.14.jar:5.3.14]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808) ~[spring-webmvc-5.3.14.jar:5.3.14]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.3.14.jar:5.3.14]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067) ~[spring-webmvc-5.3.14.jar:5.3.14]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963) ~[spring-webmvc-5.3.14.jar:5.3.14]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.14.jar:5.3.14]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909) ~[spring-webmvc-5.3.14.jar:5.3.14]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681) ~[tomcat-embed-core-9.0.56.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.14.jar:5.3.14]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764) ~[tomcat-embed-core-9.0.56.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.56.jar:9.0.56]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.14.jar:5.3.14]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.14.jar:5.3.14]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.14.jar:5.3.14]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.14.jar:5.3.14]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.14.jar:5.3.14]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.14.jar:5.3.14]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1732) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+
+2021-12-27 18:18:47.394  INFO 15799 --- [main] com.example.club.ClubApplication         : Starting ClubApplication using Java 17.0.1 on Yevheniis-MacBook-Air.local with PID 15799 (/Users/yevheniikaliukh/IdeaProjects/club/target/classes started by yevheniikaliukh in /Users/yevheniikaliukh/IdeaProjects/club)
+2021-12-27 18:18:47.395  INFO 15799 --- [main] com.example.club.ClubApplication         : No active profile set, falling back to default profiles: default
+2021-12-27 18:18:47.916  INFO 15799 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2021-12-27 18:18:47.919  INFO 15799 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-12-27 18:18:47.919  INFO 15799 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2021-12-27 18:18:48.006  INFO 15799 --- [main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2021-12-27 18:18:48.011  INFO 15799 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-12-27 18:18:48.011  INFO 15799 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 578 ms
+2021-12-27 18:18:48.142  INFO 15799 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2021-12-27 18:18:48.148  INFO 15799 --- [main] com.example.club.ClubApplication         : Started ClubApplication in 0.965 seconds (JVM running for 1.232)
+2021-12-27 18:19:14.146  INFO 15799 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-12-27 18:19:14.147  INFO 15799 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-12-27 18:19:14.148  INFO 15799 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
